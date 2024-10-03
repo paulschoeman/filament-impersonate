@@ -1,6 +1,6 @@
 {
 	"name": "paulschoeman/filament-impersonate",
-	"description": "A temporary fork of stechstudio's Filament package to impersonate your users.",
+	"description": "A temporary fork of stechstudio's Filament package to impersonate your users. Dependencies updated to be Laravel 11 compatible.",
 	"type": "library",
 	"minimum-stability": "dev",
 	"license": "MIT",
