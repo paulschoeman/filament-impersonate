@@ -1,6 +1,6 @@
 {
-	"name": "stechstudio/filament-impersonate",
-	"description": "A Filament package to impersonate your users.",
+	"name": "paulschoeman/filament-impersonate",
+	"description": "A temporary fork of stechstudio's Filament package to impersonate your users.",
 	"type": "library",
 	"minimum-stability": "dev",
 	"license": "MIT",
